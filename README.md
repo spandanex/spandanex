@@ -23,10 +23,6 @@ Welcome to my GitHub profile!
 - Build cool projects and share them here
 - Connect with other learners and developers
 
-## 📫 How to Reach Me
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](#)
-
 ---
 
 Thanks for visiting my profile!  

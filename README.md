@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Spandanex! 👋
 
-<!--
-**spandanex/spandanex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👦 About Me
+- 🎒 I am currently a class 10th student.
+- 💻 I love learning coding and programming.
+- 🚀 Fascinated by new technology and always curious to know more.
+- 🌱 Currently exploring Python and web development basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (beginner)
+- HTML & CSS (beginner)
+- Always excited to learn new languages and tools!
+
+## 📚 What I'm Learning
+- Programming fundamentals
+- Building simple projects like calculators and games
+- Exploring new tech trends and innovations
+
+## 🏆 Goals
+- Improve my coding skills every day
+- Build cool projects and share them here
+- Connect with other learners and developers
+
+## 📫 How to Reach Me
+- **Email:** [your-email@example.com]
+- **LinkedIn:** [Your LinkedIn Profile](#)
+
+---
+
+Thanks for visiting my profile!  
+Let's learn and grow together! 🚀
